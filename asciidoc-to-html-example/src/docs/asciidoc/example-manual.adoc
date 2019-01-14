@@ -1,6 +1,6 @@
-= Example Manual
-Doc Writer <doc.writer@example.org>
-2014-09-09
+= 示例手册
+YuCheng Hu <yuchenghu@ossez.com>
+2019-01-13
 :revnumber: {project-version}
 :example-caption!:
 ifndef::imagesdir[:imagesdir: images]
